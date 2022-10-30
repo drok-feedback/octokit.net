@@ -16,6 +16,24 @@
       "message": "hello\n\n## Title\n\nFirst para\n\n### Sub-chapter\n\nfirst para about cd0dc8935\n\nDoes it resolve #1 ?",
       "revId": "38b2ce30162f6e299d80b28d18c72778f0267366",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1a62d15c_9e6c9d2a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020664
+      },
+      "writtenOn": "2022-10-30T02:24:26Z",
+      "side": 1,
+      "message": "\u003e hello\n\u003e \n\u003e ## Title\n\u003e \n\u003e First para\n\u003e \n\u003e ### Sub-chapter\n\u003e \n\u003e first para about cd0dc8935\n\u003e \n\u003e Does it resolve #1 ?\n\ny",
+      "parentUuid": "ebde067b_9abcdd23",
+      "revId": "38b2ce30162f6e299d80b28d18c72778f0267366",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
